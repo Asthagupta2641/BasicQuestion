@@ -1,5 +1,5 @@
 import java.util.Arrays;
-import java.util.*;
+
 public class KthMaxAndMinElement {
     public static void main(String[] args) {
         int[] a={1, 2, 6, 4, 5};
